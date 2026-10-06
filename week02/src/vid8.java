@@ -12,6 +12,7 @@ public class vid8 {
         x=6;
         System.out.println("X is now: "+ ++x);
         System.out.println("X is now: "+ x++);
+        //change title back
     }
     
 }
